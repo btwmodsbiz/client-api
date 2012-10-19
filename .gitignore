@@ -1,0 +1,5 @@
+!/.gitignore
+/jars/*
+/bin
+/client-src/
+/lib/
